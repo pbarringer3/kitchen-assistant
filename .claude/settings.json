@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Write(runtime_docs/**)",
+      "Edit(runtime_docs/**)"
+    ]
+  }
+}

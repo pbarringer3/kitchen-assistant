@@ -1,0 +1,18 @@
+# Kitchen Inventory
+# quantity = current amount on hand
+# unit = unit of measurement
+# desired = target quantity after a grocery run
+
+[produce]
+
+[pantry]
+
+[dairy]
+
+[meat]
+
+[frozen]
+
+[drinks]
+
+[other]
